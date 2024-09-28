@@ -35,5 +35,5 @@ This Music Player application is a console-based program developed in C++ that a
 
 1. Clone the repository or download the source code.
    ```bash
-   git clone https://github.com/yourusername/music-player-cpp.git
-   cd music-player-cpp
+   git clone [https://github.com/Tusharjamdade/ADSA-Project.git
+   cd ADSA-Project
